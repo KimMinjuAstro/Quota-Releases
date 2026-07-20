@@ -1,0 +1,11 @@
+name: 기능 제안
+description: Quota에 추가되거나 개선되었으면 하는 기능을 제안합니다.
+title: "[제안] "
+body:
+  - type: textarea
+    id: proposal
+    attributes:
+      label: 원하는 기능
+      description: 원하는 동작을 적어주세요. 참고 화면이나 파일도 이 칸에 첨부할 수 있으며, 개인정보와 민감정보는 가려주세요.
+    validations:
+      required: true

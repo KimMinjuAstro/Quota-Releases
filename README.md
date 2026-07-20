@@ -1,10 +1,10 @@
 # Quota
 
-Gemini · Claude · ChatGPT 사용량을 한 화면에서 확인하는 Always On Top 데스크톱 위젯입니다.
+Gemini · Claude · ChatGPT · Grok 사용량을 한 화면에서 확인하는 Always On Top 데스크톱 위젯입니다.
 
 ## 다운로드 및 설치
 
-1. [최신 릴리스](https://github.com/KimMinjuAstro/Quota-Releases/releases/latest)의 `Assets`에서 `quota_*_x64-setup.exe` 또는 `.msi` 파일을 다운로드해 실행합니다.
+1. [Latest Release](https://github.com/KimMinjuAstro/Quota-Releases/releases/latest)의 `Assets`에서 `quota_*_x64-setup.exe` 또는 `.msi` 파일을 다운로드해 실행합니다.
 2. Windows 보안 경고가 표시되면 **추가 정보 → 실행**을 선택합니다.
 
 ## 사용
@@ -19,6 +19,6 @@ Gemini · Claude · ChatGPT 사용량을 한 화면에서 확인하는 Always On
 
 ## 피드백
 
-버그가 발생하면 화면 캡처와 재현 과정을 디스코드 또는 카카오톡으로 알려주세요.
+버그 신고와 기능 제안은 [GitHub Issues](https://github.com/KimMinjuAstro/Quota-Releases/issues/new/choose)에 남겨주세요. 화면 캡처를 첨부할 때는 개인정보와 민감정보를 가려주세요.
 
 설치 파일의 재배포 및 역컴파일은 금지되어 있습니다.

@@ -1,0 +1,48 @@
+name: 버그 신고
+description: Quota가 예상과 다르게 동작하거나 오류가 발생했을 때 사용합니다.
+title: "[버그] "
+body:
+  - type: dropdown
+    id: app_version
+    attributes:
+      label: Quota 버전
+      options:
+        - v0.5.0
+        - v0.4.0
+        - v0.3.0 이하
+        - 잘 모르겠음
+    validations:
+      required: true
+
+  - type: dropdown
+    id: related_area
+    attributes:
+      label: 관련 기능
+      multiple: true
+      options:
+        - Gemini
+        - Claude
+        - ChatGPT
+        - Grok
+        - 계정 로그인 · 로그아웃
+        - 카드 순서 · 드래그
+        - 다크 · 라이트 모드
+        - 앱 확대 · 축소
+        - 투명도 조절
+        - 열 · 행 조절 버튼
+        - 사용량 초기화 알림
+        - 시작 시 자동 실행
+        - 설치 · 업데이트
+        - 앱 전체
+        - 기타
+    validations:
+      required: true
+
+  - type: textarea
+    id: problem
+    attributes:
+      label: 발생한 문제
+      description: 무엇을 하다가 어떤 문제가 발생했는지 적어주세요. 화면 캡처도 이 칸에 첨부할 수 있으며, 이메일·계정 정보·토큰·회사 내부 정보는 가려주세요.
+      placeholder: 오류 문구나 이상하게 보인 화면이 있다면 함께 설명해 주세요.
+    validations:
+      required: true
