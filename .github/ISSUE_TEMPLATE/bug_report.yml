@@ -6,6 +6,7 @@ body:
     id: app_version
     attributes:
       label: Quota 버전
+      description: 앱의 Q 로고를 누르면 현재 버전을 확인할 수 있습니다.
       options:
         - v0.5.1
         - v0.5.0
