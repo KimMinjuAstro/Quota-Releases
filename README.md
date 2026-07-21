@@ -1,6 +1,6 @@
 # Quota
 
-Gemini · Claude · ChatGPT · Grok 사용량을 한 화면에서 확인하는 Always On Top 데스크톱 위젯입니다.
+Gemini · Claude · ChatGPT 사용량을 한 화면에서 확인하는 Always On Top 데스크톱 위젯입니다.
 
 ## 다운로드 및 설치
 
