@@ -3,8 +3,7 @@
 Gemini · Claude · ChatGPT 사용량을 한 화면에서 확인하는 Always On Top 데스크톱 위젯입니다.
 
 <p align="center">
-  <img src="assets/screenshot-light.png" alt="Quota 라이트 테마 화면" width="49%">
-  <img src="assets/screenshot-dark.png" alt="Quota 다크 테마 화면" width="49%">
+  <img src="assets/screenshot-light.png" alt="Quota 화면" width="70%">
 </p>
 
 ## 다운로드 및 설치
