@@ -2,6 +2,11 @@
 
 Gemini · Claude · ChatGPT 사용량을 한 화면에서 확인하는 Always On Top 데스크톱 위젯입니다.
 
+<p align="center">
+  <img src="assets/screenshot-light.png" alt="Quota 라이트 테마 화면" width="49%">
+  <img src="assets/screenshot-dark.png" alt="Quota 다크 테마 화면" width="49%">
+</p>
+
 ## 다운로드 및 설치
 
 1. [Latest Release](https://github.com/KimMinjuAstro/Quota-Releases/releases/latest)의 `Assets`에서 `quota_*_x64-setup.exe` 또는 `.msi` 파일을 다운로드해 실행합니다.
